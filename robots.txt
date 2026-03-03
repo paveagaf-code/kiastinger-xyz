@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kiastinger.xyz/sitemap.xml
